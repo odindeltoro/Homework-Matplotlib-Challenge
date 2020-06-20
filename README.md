@@ -8,9 +8,9 @@ As a senior data analyst at the company, you've been given access to the complet
 
 Summary statistics, correlation between variables and visualization of data using Pandas and Matplotlib. Determine the effects of treatments and the best treatment for tumor. 
 
-![Data points regimen](data_points_drug_regimen.png)
-![Gender](mice_gender_distribution.png)
-![Drug regimens](top_drug_regimens.png)
-![Drug test](drug_regimen_test.png)
-![Weight and tumor](weightvstumor.png)
-![Weight and tumor treatment](weightvstumor_treatment.png)
+![Data points regimen](Pymaceuticals/data_points_drug_regimen.png)
+![Gender](Pymaceuticals/mice_gender_distribution.png)
+![Drug regimens](Pymaceuticals/top_drug_regimens.png)
+![Drug test](Pymaceuticals/drug_regimen_test.png)
+![Weight and tumor](Pymaceuticals/weightvstumor.png)
+![Weight and tumor treatment](Pymaceuticals/weightvstumor_treatment.png)
